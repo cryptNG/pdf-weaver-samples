@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companyFactsheet>
+    <company>
+        <name>Global Semiconductor Company</name>
+        <description>Virtually every electronic design in the world uses parts from this global leader in semiconductor manufacturing.</description>
+        <headquarters location="A European Country" />
+        <waferfabs locations="Various locations in Europe" />
+        <assemblyCenters locations="Various locations in Asia" />
+        <activities>Research, development, and sales activities in Asia, Europe, and Americas, in close proximity to customers.</activities>
+    </company>
+
+    <marketSegments>
+        <segment name="Automotive" />
+        <segment name="5G, Industrial &amp; Power, IoT" />
+        <segment name="Mobile &amp; Wearables" />
+        <segment name="Consumer, IoT" />
+        <segment name="Computing" />
+    </marketSegments>
+
+    <leadershipPositions>
+        <position rank="1" category="Small-Signal Diodes and Transistors" />
+        <position rank="1" category="ESD Protection Devices" />
+        <position rank="1" category="Small-Signal MOSFETs" />
+        <position rank="2" category="PowerMOS Automotive" />
+        <position rank="2" category="Logic Devices" />
+    </leadershipPositions>
+
+    <productPortfolio>
+        <products total="15000">
+            <product>Bipolar transistors</product>
+            <product>Diodes</product>
+            <product>ESD protection</product>
+            <product>TVS</product>
+            <product>MOSFETs</product>
+            <product>Signal conditioning</product>
+            <product>GaN FETs</product>
+            <product>Analog &amp; Logic ICs</product>
+        </products>
+    </productPortfolio>
+
+    <keyFacts>
+        <fact name="globalMarketShare" percentage="9.4" />
+        <fact name="experience" years="60+" />
+        <fact name="annualUnits" count=">100 billion" />
+        <fact name="patentFamilies" total="200+" />
+        <fact name="annualRevenue" amount="$2.1 billion" />
+        <fact name="factories" total="6" />
+        <fact name="teamMembers" total="14000+" />
+        <fact name="newProductsAnnually" total="800+" />
+    </keyFacts>
+
+    <locations>
+        <location name="Headquarters" city="Nijmegen" country="The Netherlands" />
+        <location name="Waferfab" city="Hamburg" country="Germany" />
+        <location name="Waferfab" city="Manchester" country="UK" />
+        <location name="Waferfab" city="Newport" country="UK" />
+        <!-- Additional locations -->
+    </locations>
+
+    <legalNotice>
+        All rights reserved. Reproduction in whole or in part is prohibited without the prior written consent of the copyright owner. The information presented does not form part of any quotation or contract, is believed to be accurate and reliable and may be changed without notice. No liability will be accepted for any consequence of its use.
+    </legalNotice>
+
+    <copyright>
+        <year>2022</year>
+        <holder>Global Semiconductor Company B.V.</holder>
+    </copyright>
+</companyFactsheet>
